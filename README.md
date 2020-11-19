@@ -10,6 +10,41 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
+## Analiza kolesarsarjev WorldToura
+
+V okviru projekta bom zbral ter analiziral podatke o kolesarjih in kolesarskih dirkah na najvišjem nivoju, i.e. WorldTour za zadnjih nekaj
+let/sezon. 
+
+Med podatki o kolesarjih bo moč najti:
+
+* narodnost 
+* starost
+* višino
+* težo
+* klub
+* ...
+
+Podatki o dirkah pa bodo vključevali:
+
+* težavnost
+* profil
+* vremenske pogoje
+* rezultate
+* ...
+
+Namen/Cilj analize je poiskati skupne (fizične) lastnosti kolesarjev, ki so osvajali iste dirke v različnih letih, ter po možnosti zaslediti kako zanimivost
+ali trend.
+
+VIRI:
+
+* https://www.procyclingstats.com/
+
+* http://www.steephill.tv/
+
+* https://www.uci.org/road/results
+
+* https://www.wikipedia.org/
+
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
