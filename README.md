@@ -10,14 +10,13 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
-## Analiza kolesarsarjev WorldToura
+## Analiza cestnega kolesarstva
 
-V okviru projekta bom zbral ter analiziral podatke o kolesarjih in kolesarskih dirkah na najvišjem nivoju, i.e. WorldTour za zadnjih nekaj
-let/sezon. 
+Glede na to, da cestno kolesarstvo v zadnjih letih postaja slovenski nacionalni šport (številka 1), sem se odločil, da bom okviru projekta zbral ter analiziral podatke o kolesarjih in kolesarskih dirkah na najvišjem nivoju, i.e. WorldTour za zadnjih nekaj let/sezon, recimo od leta 2010 dalje, ko je Armstrong kolo postavil v kot. 
 
 Med podatki o kolesarjih bo moč najti:
 
-* narodnost 
+* narodnost
 * starost
 * višino
 * težo
