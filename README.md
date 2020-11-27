@@ -23,7 +23,7 @@ Med podatki o kolesarjih bo moč najti:
 * klub
 * ...
 
-Podatki o dirkah pa bodo vključevali:
+Dirke bom ločil na enodnevne ter etapne dirke, ter nato za vsako dirko posebej predstavil naslednje podatke:
 
 * težavnost
 * profil
@@ -32,7 +32,8 @@ Podatki o dirkah pa bodo vključevali:
 * ...
 
 Namen/Cilj analize je poiskati skupne (fizične) lastnosti kolesarjev, ki so osvajali iste dirke v različnih letih, ter po možnosti zaslediti kako zanimivost
-ali trend.
+ali trend. Glede na to, da se trase dirk vsakoletno nekoliko spreminjajo, je moč pričakovati tudi kakšne spremembe glede na tip kolesarja, ki zmaga posamezno dirko.
+Za največje dirke bi podatke predstavil tudi z grafom, posebej glede na težo, starost, višino.
 
 VIRI:
 
